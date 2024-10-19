@@ -1,5 +1,5 @@
 # Project8
-Insurance Price Prediction
+Insurance Price Prediction - POWER BI
 
 
 Dataset Overview:
